@@ -1,0 +1,21 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 5em;
+  background-color: #0d4e99;
+  padding: 0 10px;
+  align-items: center;
+}
+.image {
+  width: 80px;
+}
+.search {
+  height: 2em;
+}
+.ajouter {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  margin-left: 10px;
+}
